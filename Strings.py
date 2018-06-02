@@ -33,3 +33,4 @@ print(f+ str(v))
 
 print(f * 10)
  
+input("Please press enter to exit.")
